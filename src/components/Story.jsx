@@ -1,6 +1,7 @@
 import React, { useRef } from 'react'
 import AnimatedTitle from './AnimatedTitle'
 import gsap from 'gsap';
+import RoundedConers from './RoundedConers';
 
 const Story = () => {
   const frameRef = useRef('null');
@@ -67,6 +68,8 @@ const Story = () => {
               />
             </div>
           </div>
+          
+          <RoundedConers />
         </div>
        </div>
 
