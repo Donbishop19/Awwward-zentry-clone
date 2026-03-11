@@ -32,5 +32,6 @@ npm run dev
 
 
 ## 👨‍💻 Author
+Tella Busayo
 
 Your Name
