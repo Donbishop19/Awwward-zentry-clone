@@ -11,24 +11,24 @@ export default {
         general: ['general', 'sanf-serif'],
         'circular-web': ['circular-web', 'sanf-serif'],
         'robert-regular': ['robert-regular', 'sanf-serif'],
+      },
+      colors: {
+        blue: {
+          50: '#DFDFFO',
+          75: '#DFDFF2',
+          100: '#F0F2FA',
+          200: '#101010',
+          300: '#4FB7DD'
+        },
+        violet: {
+          300: '#5724FF',
+        },
+        yellow: {
+          100: '#8E983F',
+          300: '#EDFF66'
+        }
       }
     },
-    colors: {
-      blue: {
-        50: '#DFDFFO',
-        75: '#DFDFF2',
-        100: '#F0F2FA',
-        200: '#101010',
-        300: '#4FB7DD'
-      },
-      violet: {
-        300: '#5724FF',
-      },
-      yellow: {
-        100: '#8E983F',
-        300: '#EDFF66'
-      }
-    }
   },
   plugins: [],
 }
